@@ -1,0 +1,14 @@
+package project.back;
+
+public enum Qualification {
+	MEDECIN_GENERALISTE,
+	  CARDIOLOGUE,
+	  DERMATOLOGUE,
+	  GYNECOLOGUE,
+	  ANDROLOGUE,
+	  IMMUNOLOGISTE,
+	  DENTISTE,
+	  ORTHOPEDISTE,
+	  RHUMATOLOGUE,
+	  CANCEROLOGUE
+}
